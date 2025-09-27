@@ -1,0 +1,10 @@
+nav a   {
+    text-decoration: none;
+    color:blueviolet;
+    border-radius: 4px;
+}
+nav a:focus {
+    outline: 2px solid orange;
+    background-color: lightgray;
+    outline-offset: 3px;
+}
